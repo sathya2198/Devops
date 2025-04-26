@@ -1,0 +1,4 @@
+
+#/bin
+
+iam khaja
